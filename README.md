@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I am S. Kajalan</h1>
+<h1 align="center">Hello 👋, I am KsoftM</h1>
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
     <h3 align="center">Dedicated Frontend Developer & Independent Game Developer</h3>
 </p>
@@ -35,7 +35,7 @@ I am a passionate frontend developer with a keen interest in creating engaging u
 ## Projects & Writing
 
 - 👨‍💻 **GitHub Repositories:**
-  All of my public repositories and open-source contributions can be found at [github.com/kajalan](https://github.com/kajalan). You will encounter projects ranging from React frontends to Express-based RESTful APIs, as well as game prototypes developed in Unity and Unreal Engine.
+  All of my public repositories and open-source contributions can be found at [github.com/ksoftm](https://github.com/ksoftm). You will encounter projects ranging from React frontends to Express-based RESTful APIs, as well as game prototypes developed in Unity and Unreal Engine.
 
 - 📝 **Technical Articles:**
   I regularly publish articles on [ksoftm.com](https://ksoftm.com/). My blog covers topics such as API design with Sequelize and Express, React patterns, performance optimization, and game development workflows.
@@ -198,11 +198,11 @@ I am a passionate frontend developer with a keen interest in creating engaging u
 
 ## Connect with Me
 
-- **GitHub Profile:** [github.com/kajalan](https://github.com/kajalan)
-- **Website & Portfolio:** [kajalan.com](https://kajalan.com)
+- **GitHub Profile:** [github.com/ksoftm](https://github.com/ksoftm)
+- **Website & Portfolio:** [ksoftm.com](https://ksoftm.com)
 - **Technical Blog:** [ksoftm.com](https://ksoftm.com/)
-- **Twitter / X:** [@kajalan](https://twitter.com/kajalan)
-- **LinkedIn:** [linkedin.com/in/kajalan](https://www.linkedin.com/in/kajalan)
+- **Twitter / X:** [@ksoftm](https://twitter.com/ksoftm)
+<!-- - **LinkedIn:** [linkedin.com/in/ksoftm](https://www.linkedin.com/in/ksoftm) -->
 
 ---
 
