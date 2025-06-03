@@ -2,7 +2,7 @@
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
     <h3 align="center">Dedicated Frontend Developer & Independent Game Developer</h3>
 </p>
- 
+
  
 
 <!-- <p align="center">
